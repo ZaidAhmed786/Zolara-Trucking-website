@@ -32,7 +32,7 @@ export default function Menu() {
                 </li>
                 <li className="menu-item position-relative">
                     <button className="position-relative  ps-5 fw_500 white-clr cus-z1" onClick={() => handleAccordion(2)}>
-                            <Link href="/about" className="fw_500 white-clr">About Us</Link>
+                            <Link href="/about" className="fw_500 white-clr">About U</Link>
                     </button>
                     {/* <ul className="sub-menu px-lg-4 py-xxl-3 py-2" style={{ display: `${isAccordion == 2 ? "block" : "none"}` }}>
                         <li className="menu-link py-1">
